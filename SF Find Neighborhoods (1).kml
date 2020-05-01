@@ -3,11 +3,11 @@
   <Document id="featureCollection">
 <Style id="defaultStyle">
   <LineStyle>
-    <color>ff000000</color>
+    <color>ffff0000</color>
     <width>1</width>
   </LineStyle>
   <PolyStyle>
-    <color>ff000000</color>
+    <color>ffff0000</color>
   </PolyStyle>
 </Style>
   <Folder><Placemark>
