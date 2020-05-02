@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sficon" id="sficon">
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="iconscale" type="string"></SimpleField>
+	<SimpleField name="icontext" type="string"></SimpleField>
+</Schema>
+<Folder><name>sficon</name>
+  <Placemark>
+	<name>Seacliff</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.488899200661</SimpleData>
+		<SimpleData name="latitude">37.7865205845941</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.488899200661,37.7865205845941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.479920697142</SimpleData>
+		<SimpleData name="latitude">37.7850488393929</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.479920697142,37.7850488393929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidio National Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.464478917088</SimpleData>
+		<SimpleData name="latitude">37.7999531640692</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.464478917088,37.7999531640692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidio Terrace</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.465885701732</SimpleData>
+		<SimpleData name="latitude">37.786901185704</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.465885701732,37.786901185704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inner Richmond</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.468468357956</SimpleData>
+		<SimpleData name="latitude">37.7792428903709</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.468468357956,37.7792428903709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sutro Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.508581643902</SimpleData>
+		<SimpleData name="latitude">37.7784269045268</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.508581643902,37.7784269045268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lincoln Park / Ft. Miley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.50325636446</SimpleData>
+		<SimpleData name="latitude">37.7834510498164</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.50325636446,37.7834510498164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outer Richmond</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.490518828627</SimpleData>
+		<SimpleData name="latitude">37.7783240986109</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.490518828627,37.7783240986109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golden Gate Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.483431016546</SimpleData>
+		<SimpleData name="latitude">37.7701732340165</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.483431016546,37.7701732340165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Presidio Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.452496280049</SimpleData>
+		<SimpleData name="latitude">37.7884681066277</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.452496280049,37.7884681066277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laurel Heights / Jordan Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.452606154629</SimpleData>
+		<SimpleData name="latitude">37.784096715694</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.452606154629,37.784096715694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lone Mountain</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.452665082373</SimpleData>
+		<SimpleData name="latitude">37.7772121467312</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.452665082373,37.7772121467312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anza Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.443184007293</SimpleData>
+		<SimpleData name="latitude">37.7806106068966</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.443184007293,37.7806106068966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cow Hollow</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.442257726752</SimpleData>
+		<SimpleData name="latitude">37.7973704066305</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.442257726752,37.7973704066305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Street</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.430743809248</SimpleData>
+		<SimpleData name="latitude">37.798625254976</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.430743809248,37.798625254976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nob Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.413561314864</SimpleData>
+		<SimpleData name="latitude">37.7928856959045</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.413561314864,37.7928856959045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marina</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.440692608081</SimpleData>
+		<SimpleData name="latitude">37.8037819187127</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.440692608081,37.8037819187127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Telegraph Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.405467567345</SimpleData>
+		<SimpleData name="latitude">37.8023335868203</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.405467567345,37.8023335868203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Downtown / Union Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.406917972606</SimpleData>
+		<SimpleData name="latitude">37.7872317855809</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:98</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.406917972606,37.7872317855809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenderloin</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.415267011074</SimpleData>
+		<SimpleData name="latitude">37.7846025649641</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.415267011074,37.7846025649641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Civic Center</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.420056162328</SimpleData>
+		<SimpleData name="latitude">37.7768220004803</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.420056162328,37.7768220004803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hayes Valley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.427096384154</SimpleData>
+		<SimpleData name="latitude">37.7764048984099</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.427096384154,37.7764048984099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alamo Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.43468803129</SimpleData>
+		<SimpleData name="latitude">37.7763485086817</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.43468803129,37.7763485086817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Panhandle</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.445117965028</SimpleData>
+		<SimpleData name="latitude">37.7735870916786</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.445117965028,37.7735870916786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haight Ashbury</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.448680928023</SimpleData>
+		<SimpleData name="latitude">37.7702600791735</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:86</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.448680928023,37.7702600791735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lower Haight</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.431983000461</SimpleData>
+		<SimpleData name="latitude">37.7725877731149</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.431983000461,37.7725877731149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mint Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.425842299807</SimpleData>
+		<SimpleData name="latitude">37.7706312708645</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.425842299807,37.7706312708645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duboce Triangle</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.432731386971</SimpleData>
+		<SimpleData name="latitude">37.7667583112349</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.432731386971,37.7667583112349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cole Valley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.45062954329</SimpleData>
+		<SimpleData name="latitude">37.7673608447048</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.45062954329,37.7673608447048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rincon Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.391068196162</SimpleData>
+		<SimpleData name="latitude">37.7872069768995</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:56</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.391068196162,37.7872069768995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.391314310043</SimpleData>
+		<SimpleData name="latitude">37.7821040131507</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:37</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.391314310043,37.7821040131507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South of Market</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.403655508955</SimpleData>
+		<SimpleData name="latitude">37.779665896665</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.403655508955,37.779665896665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Showplace Square</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.404131471587</SimpleData>
+		<SimpleData name="latitude">37.7698324909408</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.404131471587,37.7698324909408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission Bay</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.393113769463</SimpleData>
+		<SimpleData name="latitude">37.7711359936237</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:95</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.393113769463,37.7711359936237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yerba Buena Island</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.366655551683</SimpleData>
+		<SimpleData name="latitude">37.8114619489827</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.366655551683,37.8114619489827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Treasure Island</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.371093901834</SimpleData>
+		<SimpleData name="latitude">37.8247704540346</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:76</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.371093901834,37.8247704540346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission Dolores</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.42628300413</SimpleData>
+		<SimpleData name="latitude">37.7635782030461</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.42628300413,37.7635782030461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castro</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.433190894791</SimpleData>
+		<SimpleData name="latitude">37.7625607671761</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.433190894791,37.7625607671761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outer Sunset</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.493483646829</SimpleData>
+		<SimpleData name="latitude">37.7514788450276</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.493483646829,37.7514788450276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parkside</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.485088908397</SimpleData>
+		<SimpleData name="latitude">37.7431572289927</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.485088908397,37.7431572289927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stonestown</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.47375309021</SimpleData>
+		<SimpleData name="latitude">37.7230058612545</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.47375309021,37.7230058612545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parkmerced</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.480049180212</SimpleData>
+		<SimpleData name="latitude">37.7201084207695</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.480049180212,37.7201084207695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lakeshore</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.495908879133</SimpleData>
+		<SimpleData name="latitude">37.7228290217678</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.495908879133,37.7228290217678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golden Gate Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.470864998954</SimpleData>
+		<SimpleData name="latitude">37.7519182477295</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.470864998954,37.7519182477295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.462792799176</SimpleData>
+		<SimpleData name="latitude">37.7485255357517</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.462792799176,37.7485255357517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Portal</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.471287171445</SimpleData>
+		<SimpleData name="latitude">37.7383256848001</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.471287171445,37.7383256848001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clarendon Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.448393103988</SimpleData>
+		<SimpleData name="latitude">37.757103809386</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.448393103988,37.757103809386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Midtown Terrace</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.452115018067</SimpleData>
+		<SimpleData name="latitude">37.7500070827303</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.452115018067,37.7500070827303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laguna Honda</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.456203657903</SimpleData>
+		<SimpleData name="latitude">37.7456975904635</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.456203657903,37.7456975904635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lower Nob Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.416002377149</SimpleData>
+		<SimpleData name="latitude">37.7882859122425</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.416002377149,37.7882859122425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Upper Market</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.442993091454</SimpleData>
+		<SimpleData name="latitude">37.7510417938451</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.442993091454,37.7510417938451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolores Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.426814179708</SimpleData>
+		<SimpleData name="latitude">37.754279001059</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.426814179708,37.754279001059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.414135548614</SimpleData>
+		<SimpleData name="latitude">37.7592418067311</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.414135548614,37.7592418067311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potrero Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.399458791236</SimpleData>
+		<SimpleData name="latitude">37.7577031850751</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.399458791236,37.7577031850751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dogpatch</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.38990693421</SimpleData>
+		<SimpleData name="latitude">37.7597641268745</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.38990693421,37.7597641268745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.385790585658</SimpleData>
+		<SimpleData name="latitude">37.7521399633079</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.385790585658,37.7521399633079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diamond Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.43871145897</SimpleData>
+		<SimpleData name="latitude">37.7435188775341</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.43871145897,37.7435188775341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crocker Amazon</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.435708807082</SimpleData>
+		<SimpleData name="latitude">37.712255169321</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.435708807082,37.712255169321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairmount</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.429305209866</SimpleData>
+		<SimpleData name="latitude">37.7389379773752</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:99</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.429305209866,37.7389379773752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peralta Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.407600008526</SimpleData>
+		<SimpleData name="latitude">37.745943154401</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.407600008526,37.745943154401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holly Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.421387214509</SimpleData>
+		<SimpleData name="latitude">37.7368685720519</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.421387214509,37.7368685720519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Merced Manor</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.480240666876</SimpleData>
+		<SimpleData name="latitude">37.7326752409682</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.480240666876,37.7326752409682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Balboa Terrace</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.467159949779</SimpleData>
+		<SimpleData name="latitude">37.7301417595856</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:63</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.467159949779,37.7301417595856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ingleside</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.461967160419</SimpleData>
+		<SimpleData name="latitude">37.7215930414506</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.461967160419,37.7215930414506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Merced Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.466987407035</SimpleData>
+		<SimpleData name="latitude">37.7130685534893</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.466987407035,37.7130685534893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Outer Mission</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.448444717855</SimpleData>
+		<SimpleData name="latitude">37.713058689185</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.448444717855,37.713058689185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ingleside Terraces</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.468514212178</SimpleData>
+		<SimpleData name="latitude">37.7262694600359</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:32</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.468514212178,37.7262694600359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt. Davidson Manor</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.46335662756</SimpleData>
+		<SimpleData name="latitude">37.7281622487731</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.46335662756,37.7281622487731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monterey Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.461400865366</SimpleData>
+		<SimpleData name="latitude">37.7335582091379</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.461400865366,37.7335582091379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westwood Highlands</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.456052885095</SimpleData>
+		<SimpleData name="latitude">37.7327551209693</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.456052885095,37.7327551209693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westwood Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.456609785981</SimpleData>
+		<SimpleData name="latitude">37.7273086271836</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:38</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.456609785981,37.7273086271836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miraloma Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.447322651866</SimpleData>
+		<SimpleData name="latitude">37.7396511351728</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.447322651866,37.7396511351728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McLaren Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.416186601943</SimpleData>
+		<SimpleData name="latitude">37.7176496690001</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:69</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.416186601943,37.7176496690001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunnydale</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.419590548001</SimpleData>
+		<SimpleData name="latitude">37.7115184686974</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:88</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.419590548001,37.7115184686974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Visitacion Valley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.407470978303</SimpleData>
+		<SimpleData name="latitude">37.7144300063265</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:65</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.407470978303,37.7144300063265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>India Basin</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.371406792848</SimpleData>
+		<SimpleData name="latitude">37.7380482233079</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.371406792848,37.7380482233079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northern Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.401113210898</SimpleData>
+		<SimpleData name="latitude">37.8024926253247</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.401113210898,37.8024926253247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hunters Point</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.370159721545</SimpleData>
+		<SimpleData name="latitude">37.7242030431198</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.370159721545,37.7242030431198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Candlestick Point SRA</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.387349985286</SimpleData>
+		<SimpleData name="latitude">37.7145168980314</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.387349985286,37.7145168980314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cayuga</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.44395903252</SimpleData>
+		<SimpleData name="latitude">37.7186445327784</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.44395903252,37.7186445327784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oceanview</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.455768039152</SimpleData>
+		<SimpleData name="latitude">37.7169139600413</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.455768039152,37.7169139600413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Apparel City</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.404074282244</SimpleData>
+		<SimpleData name="latitude">37.7393813136731</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.404074282244,37.7393813136731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bernal Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.414346441562</SimpleData>
+		<SimpleData name="latitude">37.7402256894574</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:66</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.414346441562,37.7402256894574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Noe Valley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.432661038755</SimpleData>
+		<SimpleData name="latitude">37.7483394261182</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.432661038755,37.7483394261182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Produce Market</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.399176194071</SimpleData>
+		<SimpleData name="latitude">37.7442123496838</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.399176194071,37.7442123496838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bayview</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.385349613744</SimpleData>
+		<SimpleData name="latitude">37.7338874597633</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.385349613744,37.7338874597633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Silver Terrace</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.398109973208</SimpleData>
+		<SimpleData name="latitude">37.7338645661107</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.398109973208,37.7338645661107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bret Harte</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.391920649149</SimpleData>
+		<SimpleData name="latitude">37.7200362730015</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.391920649149,37.7200362730015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Hollywood</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.399131560766</SimpleData>
+		<SimpleData name="latitude">37.7122467530361</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:49</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.399131560766,37.7122467530361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Excelsior</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.431496823539</SimpleData>
+		<SimpleData name="latitude">37.720763285227</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.431496823539,37.720763285227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portola</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.407446139274</SimpleData>
+		<SimpleData name="latitude">37.725187204576</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:44</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.407446139274,37.725187204576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>University Mound</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.418613356396</SimpleData>
+		<SimpleData name="latitude">37.7269367847671</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.418613356396,37.7269367847671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Marys Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.42523991134</SimpleData>
+		<SimpleData name="latitude">37.7337144963943</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.42523991134,37.7337144963943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission Terrace</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.43850453547</SimpleData>
+		<SimpleData name="latitude">37.7276646390128</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.43850453547,37.7276646390128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunnyside</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.447390044518</SimpleData>
+		<SimpleData name="latitude">37.7292041029266</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.447390044518,37.7292041029266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glen Park</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.44126943265</SimpleData>
+		<SimpleData name="latitude">37.7393065752539</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:80</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.44126943265,37.7393065752539</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western Addition</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.431193281439</SimpleData>
+		<SimpleData name="latitude">37.7799273092976</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.431193281439,37.7799273092976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aquatic Park / Ft. Mason</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.429016970619</SimpleData>
+		<SimpleData name="latitude">37.8070299835211</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:97</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.429016970619,37.8070299835211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fishermans Wharf</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.41219089994</SimpleData>
+		<SimpleData name="latitude">37.8081917058185</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.41219089994,37.8081917058185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cathedral Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.424590857752</SimpleData>
+		<SimpleData name="latitude">37.784853661129</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.424590857752,37.784853661129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Japantown</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.429682963377</SimpleData>
+		<SimpleData name="latitude">37.7860397825676</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.429682963377,37.7860397825676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pacific Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.434664492839</SimpleData>
+		<SimpleData name="latitude">37.7926125208657</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.434664492839,37.7926125208657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lower Pacific Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.439846849871</SimpleData>
+		<SimpleData name="latitude">37.7857278490727</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.439846849871,37.7857278490727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.406361146989</SimpleData>
+		<SimpleData name="latitude">37.7943628347209</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.406361146989,37.7943628347209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polk Gulch</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.421401429379</SimpleData>
+		<SimpleData name="latitude">37.7941443888343</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.421401429379,37.7941443888343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Beach</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.409268960348</SimpleData>
+		<SimpleData name="latitude">37.80073575813</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.409268960348,37.80073575813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Russian Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.417656194011</SimpleData>
+		<SimpleData name="latitude">37.8006240040458</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.417656194011,37.8006240040458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Financial District</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.397269028274</SimpleData>
+		<SimpleData name="latitude">37.792164415203</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:53</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.397269028274,37.792164415203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Inner Sunset</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.468866161808</SimpleData>
+		<SimpleData name="latitude">37.7621271290975</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.468866161808,37.7621271290975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parnassus Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.456289485598</SimpleData>
+		<SimpleData name="latitude">37.7614141085875</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:36</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.456289485598,37.7614141085875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Knolls</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.461269181759</SimpleData>
+		<SimpleData name="latitude">37.7552492326891</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:87</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.461269181759,37.7552492326891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buena Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.440305081156</SimpleData>
+		<SimpleData name="latitude">37.7682426419384</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.440305081156,37.7682426419384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Corona Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.438851680593</SimpleData>
+		<SimpleData name="latitude">37.7647385329157</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.438851680593,37.7647385329157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashbury Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.449565296242</SimpleData>
+		<SimpleData name="latitude">37.7630924594927</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.449565296242,37.7630924594927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eureka Valley</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.438345946762</SimpleData>
+		<SimpleData name="latitude">37.7582276068957</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.438345946762,37.7582276068957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Francis Wood</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.466223945212</SimpleData>
+		<SimpleData name="latitude">37.7364267765848</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.466223945212,37.7364267765848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sherwood Forest</name>
+	<ExtendedData><SchemaData schemaUrl="#sficon">
+		<SimpleData name="longitude">-122.45756157964</SimpleData>
+		<SimpleData name="latitude">37.7370054407515</SimpleData>
+		<SimpleData name="icon">91</SimpleData>
+		<SimpleData name="iconscale">0.7</SimpleData>
+		<SimpleData name="icontext">Neighborhood wellness score:73</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.45756157964,37.7370054407515</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
